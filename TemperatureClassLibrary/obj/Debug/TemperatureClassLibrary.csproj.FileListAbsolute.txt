@@ -1,0 +1,6 @@
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureClassLibrary\bin\Debug\TemperatureClassLibrary.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureClassLibrary\bin\Debug\TemperatureClassLibrary.pdb
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureClassLibrary\obj\Debug\TemperatureClassLibrary.csproj.AssemblyReference.cache
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureClassLibrary\obj\Debug\TemperatureClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureClassLibrary\obj\Debug\TemperatureClassLibrary.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureClassLibrary\obj\Debug\TemperatureClassLibrary.pdb

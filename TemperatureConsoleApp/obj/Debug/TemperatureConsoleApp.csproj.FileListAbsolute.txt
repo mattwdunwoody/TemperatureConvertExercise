@@ -1,0 +1,10 @@
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\bin\Debug\TemperatureConsoleApp.exe.config
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\bin\Debug\TemperatureConsoleApp.exe
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\bin\Debug\TemperatureConsoleApp.pdb
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\bin\Debug\TemperatureClassLibrary.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\bin\Debug\TemperatureClassLibrary.pdb
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\obj\Debug\TemperatureConsoleApp.csproj.AssemblyReference.cache
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\obj\Debug\TemperatureConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\obj\Debug\TemperatureConsoleApp.csproj.CopyComplete
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\obj\Debug\TemperatureConsoleApp.exe
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureConsoleApp\obj\Debug\TemperatureConsoleApp.pdb

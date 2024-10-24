@@ -1,0 +1,16 @@
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\TemperatureUnitTests.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\TemperatureUnitTests.pdb
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\TemperatureClassLibrary.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\TemperatureClassLibrary.pdb
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\obj\Debug\TemperatureUnitTests.csproj.AssemblyReference.cache
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\obj\Debug\TemperatureUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\obj\Debug\TemperatureUnitTests.csproj.CopyComplete
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\obj\Debug\TemperatureUnitTests.dll
+C:\Users\widmatg\source\repos\TemperatureConvertExercise\TemperatureUnitTests\obj\Debug\TemperatureUnitTests.pdb
